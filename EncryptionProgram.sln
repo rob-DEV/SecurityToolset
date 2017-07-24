@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncrypterUITest", "EncrypterUI\EncrypterUITest.csproj", "{7AB057FC-9529-411C-9C43-E25FA2712D7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecurityToolset", "Security\SecurityToolset.csproj", "{336A9702-98E2-45C5-836C-59B25DBFD9CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AB057FC-9529-411C-9C43-E25FA2712D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AB057FC-9529-411C-9C43-E25FA2712D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AB057FC-9529-411C-9C43-E25FA2712D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AB057FC-9529-411C-9C43-E25FA2712D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{336A9702-98E2-45C5-836C-59B25DBFD9CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{336A9702-98E2-45C5-836C-59B25DBFD9CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{336A9702-98E2-45C5-836C-59B25DBFD9CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{336A9702-98E2-45C5-836C-59B25DBFD9CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
